@@ -9,5 +9,6 @@ Mis pasatiempos son:
 - 😻 Montaje de ordenadores y su mantenimiento 😻
 <br>
 - 👀 Prevencion de riesgos. Para evitar perdidas de información 👀
+<br>
 
 ![GitHub Log](https://play-lh.googleusercontent.com/Q8klPWjtLQrBeeP2oDAtA0H0CrYZBpK8ckF3HnqDMT2L6GGdsUCjYc75mfRkoQyhrwfS)
