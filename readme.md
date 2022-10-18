@@ -7,7 +7,6 @@ Soy alumno del Centro IES Alisal y estoy estudiando ASIR
 Mis pasatiempos son:
 <br>
 - 😻 Montaje de ordenadores y su mantenimiento 😻
-<br>
 - 👀 Prevencion de riesgos. Para evitar perdidas de información 👀
 <br>
 
