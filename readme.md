@@ -1,6 +1,6 @@
 <h1>Biografia</h1>
 
-!!! Comentario !!!
+git commit -m "Comentario"
 Hola buenas me llamo joel
 
 Soy alumno del Centro IES Alisal y estoy estudiando ASIR
